@@ -441,7 +441,7 @@ def validar_modelo(
     print(
         f"Ejecutando "
         f"{n_replicas} "
-        f"réplicas..."
+        f"simulaciones..."
     )
 
     total_g=0
